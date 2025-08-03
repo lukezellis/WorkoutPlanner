@@ -1,6 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
+        switch (workout) {
+            case "push" -> buildWorkout("push");
+            case "pull" -> buildWorkout("pull");
+            case "legs" -> buildWorkout("legs");
+        }
+
     }
 }
 /*
