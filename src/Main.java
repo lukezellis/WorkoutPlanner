@@ -4,7 +4,7 @@ public class Main {
     }
 }
 /*
- - Build week
+ - Build week days
     - maybe start with just Day#1-3 and repeat
  - Cycle through 3-day split (or any # of days-split)
  - Rest day button
