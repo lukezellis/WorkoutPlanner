@@ -10,6 +10,7 @@ public class Main {
     }
 }
 /*
+ - Build default workouts (push, pull, legs)
  - Build weekdays
     - maybe start with just Day#1-3 and repeat
  - Cycle through 3-day split (or any # of days-split)
