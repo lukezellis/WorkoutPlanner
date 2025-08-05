@@ -32,6 +32,8 @@ public class Main {
  - Input for weight per exercise
     - default to previous weight from same exercise
     - raise/lower weight input
+ - Bodypart total per week
+    - count 1/2s like FP for 0.5-bicep
 
  - Exercise ques/notes for each exercise
 
